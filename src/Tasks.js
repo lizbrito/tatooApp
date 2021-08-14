@@ -22,7 +22,7 @@ const tasks = [
 const Tasks = () => {
     return (
         <div>
-
+            Ninja
         </div>
     )
 }
